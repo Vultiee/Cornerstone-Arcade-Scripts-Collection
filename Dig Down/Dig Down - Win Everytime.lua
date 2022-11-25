@@ -3,3 +3,5 @@ game:GetService("Workspace").Games["Dig Down"].GoalSensor.Transparency = 0.25 --
 wait(3.5)
 game:GetService("Workspace").Games["Dig Down"].GoalSensor.Size = Vector3.new(0.2, 0.1, 1.6) -- Changes back to original size
 game:GetService("Workspace").Games["Dig Down"].GoalSensor.Transparency = 0 -- Changes back to original transparency
+
+-- Make sure to execute right as you start the game
